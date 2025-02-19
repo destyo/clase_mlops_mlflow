@@ -1,5 +1,3 @@
-<img src="img/logo-the-valleyDBS_horizontal.png" alt="Alt text" width="800" height="400"/>
-
 # Pipelines y Gestión del Ciclo de Vida de los Modelos
 
 Este repositorio contiene un proyecto de **Pipelines y Gestión del Ciclo de Vida de los Modelos**, una plataforma de código abierto para la gestión del ciclo de vida de Machine Learning.
